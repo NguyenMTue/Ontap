@@ -1,0 +1,14 @@
+E:\Tue\225\C#\Ontap\OnTap\obj\Debug\net10.0\OnTap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tue\225\C#\Ontap\OnTap\obj\Debug\net10.0\OnTap.AssemblyInfoInputs.cache
+E:\Tue\225\C#\Ontap\OnTap\obj\Debug\net10.0\OnTap.AssemblyInfo.cs
+E:\Tue\225\C#\Ontap\OnTap\obj\Debug\net10.0\OnTap.csproj.CoreCompileInputs.cache
+E:\Tue\225\C#\Ontap\OnTap\bin\Debug\net10.0\OnTap.exe
+E:\Tue\225\C#\Ontap\OnTap\bin\Debug\net10.0\OnTap.deps.json
+E:\Tue\225\C#\Ontap\OnTap\bin\Debug\net10.0\OnTap.runtimeconfig.json
+E:\Tue\225\C#\Ontap\OnTap\bin\Debug\net10.0\OnTap.dll
+E:\Tue\225\C#\Ontap\OnTap\bin\Debug\net10.0\OnTap.pdb
+E:\Tue\225\C#\Ontap\OnTap\obj\Debug\net10.0\OnTap.dll
+E:\Tue\225\C#\Ontap\OnTap\obj\Debug\net10.0\refint\OnTap.dll
+E:\Tue\225\C#\Ontap\OnTap\obj\Debug\net10.0\OnTap.pdb
+E:\Tue\225\C#\Ontap\OnTap\obj\Debug\net10.0\OnTap.genruntimeconfig.cache
+E:\Tue\225\C#\Ontap\OnTap\obj\Debug\net10.0\ref\OnTap.dll
